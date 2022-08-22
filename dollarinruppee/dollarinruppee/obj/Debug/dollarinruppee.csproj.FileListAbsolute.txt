@@ -1,0 +1,8 @@
+C:\dotnet\dollarinruppee\dollarinruppee\obj\Debug\dollarinruppee.csproj.AssemblyReference.cache
+C:\dotnet\dollarinruppee\dollarinruppee\obj\Debug\dollarinruppee.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\dollarinruppee\dollarinruppee\obj\Debug\dollarinruppee.csproj.CoreCompileInputs.cache
+C:\dotnet\dollarinruppee\dollarinruppee\bin\Debug\dollarinruppee.exe.config
+C:\dotnet\dollarinruppee\dollarinruppee\bin\Debug\dollarinruppee.exe
+C:\dotnet\dollarinruppee\dollarinruppee\bin\Debug\dollarinruppee.pdb
+C:\dotnet\dollarinruppee\dollarinruppee\obj\Debug\dollarinruppee.exe
+C:\dotnet\dollarinruppee\dollarinruppee\obj\Debug\dollarinruppee.pdb
