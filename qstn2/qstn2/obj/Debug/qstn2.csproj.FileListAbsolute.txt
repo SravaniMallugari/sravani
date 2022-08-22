@@ -1,0 +1,3 @@
+C:\dotnet\qstn2\qstn2\obj\Debug\qstn2.csproj.AssemblyReference.cache
+C:\dotnet\qstn2\qstn2\obj\Debug\qstn2.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\qstn2\qstn2\obj\Debug\qstn2.csproj.CoreCompileInputs.cache

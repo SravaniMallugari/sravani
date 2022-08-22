@@ -1,0 +1,8 @@
+C:\dotnet\swapping\swapping\bin\Debug\swapping.exe.config
+C:\dotnet\swapping\swapping\bin\Debug\swapping.exe
+C:\dotnet\swapping\swapping\bin\Debug\swapping.pdb
+C:\dotnet\swapping\swapping\obj\Debug\swapping.csproj.AssemblyReference.cache
+C:\dotnet\swapping\swapping\obj\Debug\swapping.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\swapping\swapping\obj\Debug\swapping.csproj.CoreCompileInputs.cache
+C:\dotnet\swapping\swapping\obj\Debug\swapping.exe
+C:\dotnet\swapping\swapping\obj\Debug\swapping.pdb
