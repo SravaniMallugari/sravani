@@ -1,0 +1,8 @@
+C:\dotnet\qstn6\qstn6\bin\Debug\qstn6.exe.config
+C:\dotnet\qstn6\qstn6\bin\Debug\qstn6.exe
+C:\dotnet\qstn6\qstn6\bin\Debug\qstn6.pdb
+C:\dotnet\qstn6\qstn6\obj\Debug\qstn6.csproj.AssemblyReference.cache
+C:\dotnet\qstn6\qstn6\obj\Debug\qstn6.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\qstn6\qstn6\obj\Debug\qstn6.csproj.CoreCompileInputs.cache
+C:\dotnet\qstn6\qstn6\obj\Debug\qstn6.exe
+C:\dotnet\qstn6\qstn6\obj\Debug\qstn6.pdb

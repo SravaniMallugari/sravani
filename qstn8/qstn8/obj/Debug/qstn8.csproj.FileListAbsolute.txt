@@ -1,0 +1,8 @@
+C:\dotnet\qstn8\qstn8\bin\Debug\qstn8.exe.config
+C:\dotnet\qstn8\qstn8\bin\Debug\qstn8.exe
+C:\dotnet\qstn8\qstn8\bin\Debug\qstn8.pdb
+C:\dotnet\qstn8\qstn8\obj\Debug\qstn8.csproj.AssemblyReference.cache
+C:\dotnet\qstn8\qstn8\obj\Debug\qstn8.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\qstn8\qstn8\obj\Debug\qstn8.csproj.CoreCompileInputs.cache
+C:\dotnet\qstn8\qstn8\obj\Debug\qstn8.exe
+C:\dotnet\qstn8\qstn8\obj\Debug\qstn8.pdb
