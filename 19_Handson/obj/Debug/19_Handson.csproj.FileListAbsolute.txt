@@ -1,0 +1,7 @@
+C:\dotnet\19_Handson\19_Handson\bin\Debug\19_Handson.exe.config
+C:\dotnet\19_Handson\19_Handson\bin\Debug\19_Handson.exe
+C:\dotnet\19_Handson\19_Handson\bin\Debug\19_Handson.pdb
+C:\dotnet\19_Handson\19_Handson\obj\Debug\19_Handson.csproj.AssemblyReference.cache
+C:\dotnet\19_Handson\19_Handson\obj\Debug\19_Handson.csproj.CoreCompileInputs.cache
+C:\dotnet\19_Handson\19_Handson\obj\Debug\19_Handson.exe
+C:\dotnet\19_Handson\19_Handson\obj\Debug\19_Handson.pdb
