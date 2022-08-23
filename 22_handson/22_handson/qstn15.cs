@@ -62,5 +62,6 @@ class qstn15
 
         int n = arr.Length;
         printFirstRepeating(arr, n);
+        Console.ReadLine();
     }
 }
