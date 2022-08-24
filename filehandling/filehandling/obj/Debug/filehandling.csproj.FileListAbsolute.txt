@@ -1,0 +1,11 @@
+C:\dotnet\filehandling\filehandling\bin\Debug\filehandling.exe.config
+C:\dotnet\filehandling\filehandling\bin\Debug\filehandling.exe
+C:\dotnet\filehandling\filehandling\bin\Debug\filehandling.pdb
+C:\dotnet\filehandling\filehandling\obj\Debug\filehandling.csproj.AssemblyReference.cache
+C:\dotnet\filehandling\filehandling\obj\Debug\filehandling.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\filehandling\filehandling\obj\Debug\filehandling.csproj.CoreCompileInputs.cache
+C:\dotnet\filehandling\filehandling\obj\Debug\filehandling.exe
+C:\dotnet\filehandling\filehandling\obj\Debug\filehandling.pdb
+C:\dotnet\filehandling\filehandling\bin\Debug\logicofapp.dll
+C:\dotnet\filehandling\filehandling\bin\Debug\logicofapp.pdb
+C:\dotnet\filehandling\filehandling\obj\Debug\filehandling.csproj.CopyComplete

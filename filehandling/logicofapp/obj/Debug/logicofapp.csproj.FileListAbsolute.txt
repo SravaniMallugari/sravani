@@ -1,0 +1,6 @@
+C:\dotnet\filehandling\logicofapp\bin\Debug\logicofapp.dll
+C:\dotnet\filehandling\logicofapp\bin\Debug\logicofapp.pdb
+C:\dotnet\filehandling\logicofapp\obj\Debug\logicofapp.csproj.AssemblyReference.cache
+C:\dotnet\filehandling\logicofapp\obj\Debug\logicofapp.csproj.CoreCompileInputs.cache
+C:\dotnet\filehandling\logicofapp\obj\Debug\logicofapp.dll
+C:\dotnet\filehandling\logicofapp\obj\Debug\logicofapp.pdb

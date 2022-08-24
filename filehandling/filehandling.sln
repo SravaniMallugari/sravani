@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "filehandling", "filehandling\filehandling.csproj", "{32D229BB-2A8D-4C82-8DC4-CABF1ACD57D5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BDD3B818-F439-427F-8110-5EEC29338A77} = {BDD3B818-F439-427F-8110-5EEC29338A77}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logicofapp", "logicofapp\logicofapp.csproj", "{BDD3B818-F439-427F-8110-5EEC29338A77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32D229BB-2A8D-4C82-8DC4-CABF1ACD57D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D229BB-2A8D-4C82-8DC4-CABF1ACD57D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D229BB-2A8D-4C82-8DC4-CABF1ACD57D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D229BB-2A8D-4C82-8DC4-CABF1ACD57D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDD3B818-F439-427F-8110-5EEC29338A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD3B818-F439-427F-8110-5EEC29338A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD3B818-F439-427F-8110-5EEC29338A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD3B818-F439-427F-8110-5EEC29338A77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D7C0EFB-8B81-4B77-8C40-679FDD0C313D}
+	EndGlobalSection
+EndGlobal
