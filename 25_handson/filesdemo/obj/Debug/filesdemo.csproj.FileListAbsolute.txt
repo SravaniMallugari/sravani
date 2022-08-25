@@ -1,0 +1,8 @@
+C:\dotnet\filesdemo\filesdemo\bin\Debug\filesdemo.exe.config
+C:\dotnet\filesdemo\filesdemo\bin\Debug\filesdemo.exe
+C:\dotnet\filesdemo\filesdemo\bin\Debug\filesdemo.pdb
+C:\dotnet\filesdemo\filesdemo\obj\Debug\filesdemo.csproj.AssemblyReference.cache
+C:\dotnet\filesdemo\filesdemo\obj\Debug\filesdemo.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\filesdemo\filesdemo\obj\Debug\filesdemo.csproj.CoreCompileInputs.cache
+C:\dotnet\filesdemo\filesdemo\obj\Debug\filesdemo.exe
+C:\dotnet\filesdemo\filesdemo\obj\Debug\filesdemo.pdb
