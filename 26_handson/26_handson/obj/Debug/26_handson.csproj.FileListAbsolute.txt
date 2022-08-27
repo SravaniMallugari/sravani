@@ -1,0 +1,11 @@
+C:\dotnet\26_handson\26_handson\bin\Debug\26_handson.exe.config
+C:\dotnet\26_handson\26_handson\bin\Debug\26_handson.exe
+C:\dotnet\26_handson\26_handson\bin\Debug\26_handson.pdb
+C:\dotnet\26_handson\26_handson\obj\Debug\26_handson.csproj.AssemblyReference.cache
+C:\dotnet\26_handson\26_handson\obj\Debug\26_handson.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\26_handson\26_handson\obj\Debug\26_handson.csproj.CoreCompileInputs.cache
+C:\dotnet\26_handson\26_handson\obj\Debug\26_handson.exe
+C:\dotnet\26_handson\26_handson\obj\Debug\26_handson.pdb
+C:\dotnet\26_handson\26_handson\bin\Debug\products.dll
+C:\dotnet\26_handson\26_handson\bin\Debug\products.pdb
+C:\dotnet\26_handson\26_handson\obj\Debug\26_handson.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\dotnet\26_handson\products\bin\Debug\products.dll
+C:\dotnet\26_handson\products\bin\Debug\products.pdb
+C:\dotnet\26_handson\products\obj\Debug\products.csproj.AssemblyReference.cache
+C:\dotnet\26_handson\products\obj\Debug\products.csproj.CoreCompileInputs.cache
+C:\dotnet\26_handson\products\obj\Debug\products.dll
+C:\dotnet\26_handson\products\obj\Debug\products.pdb
