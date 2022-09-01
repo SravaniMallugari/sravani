@@ -1,0 +1,8 @@
+C:\dotnet\1_handson\1_handson\bin\Debug\1_handson.exe.config
+C:\dotnet\1_handson\1_handson\bin\Debug\1_handson.exe
+C:\dotnet\1_handson\1_handson\bin\Debug\1_handson.pdb
+C:\dotnet\1_handson\1_handson\obj\Debug\1_handson.csproj.AssemblyReference.cache
+C:\dotnet\1_handson\1_handson\obj\Debug\1_handson.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\1_handson\1_handson\obj\Debug\1_handson.csproj.CoreCompileInputs.cache
+C:\dotnet\1_handson\1_handson\obj\Debug\1_handson.exe
+C:\dotnet\1_handson\1_handson\obj\Debug\1_handson.pdb
