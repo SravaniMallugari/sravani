@@ -1,0 +1,11 @@
+C:\dotnet\2handsson\2handsson\obj\Debug\2handsson.csproj.AssemblyReference.cache
+C:\dotnet\2handsson\2handsson\obj\Debug\2handsson.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\2handsson\2handsson\obj\Debug\2handsson.csproj.CoreCompileInputs.cache
+C:\dotnet\2handsson\2handsson\bin\Debug\2handsson.exe.config
+C:\dotnet\2handsson\2handsson\bin\Debug\2handsson.exe
+C:\dotnet\2handsson\2handsson\bin\Debug\2handsson.pdb
+C:\dotnet\2handsson\2handsson\bin\Debug\Library1.dll
+C:\dotnet\2handsson\2handsson\bin\Debug\Library1.pdb
+C:\dotnet\2handsson\2handsson\obj\Debug\2handsson.csproj.CopyComplete
+C:\dotnet\2handsson\2handsson\obj\Debug\2handsson.exe
+C:\dotnet\2handsson\2handsson\obj\Debug\2handsson.pdb

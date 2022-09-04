@@ -1,0 +1,6 @@
+C:\dotnet\2handsson\Library1\bin\Debug\Library1.dll
+C:\dotnet\2handsson\Library1\bin\Debug\Library1.pdb
+C:\dotnet\2handsson\Library1\obj\Debug\Library1.csproj.AssemblyReference.cache
+C:\dotnet\2handsson\Library1\obj\Debug\Library1.csproj.CoreCompileInputs.cache
+C:\dotnet\2handsson\Library1\obj\Debug\Library1.dll
+C:\dotnet\2handsson\Library1\obj\Debug\Library1.pdb
