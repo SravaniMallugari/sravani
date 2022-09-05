@@ -1,0 +1,11 @@
+C:\dotnet\5_handson\5_handson\bin\Debug\5_handson.exe.config
+C:\dotnet\5_handson\5_handson\bin\Debug\5_handson.exe
+C:\dotnet\5_handson\5_handson\bin\Debug\5_handson.pdb
+C:\dotnet\5_handson\5_handson\obj\Debug\5_handson.csproj.AssemblyReference.cache
+C:\dotnet\5_handson\5_handson\obj\Debug\5_handson.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\5_handson\5_handson\obj\Debug\5_handson.csproj.CoreCompileInputs.cache
+C:\dotnet\5_handson\5_handson\obj\Debug\5_handson.exe
+C:\dotnet\5_handson\5_handson\obj\Debug\5_handson.pdb
+C:\dotnet\5_handson\5_handson\bin\Debug\ClassLibrary1.dll
+C:\dotnet\5_handson\5_handson\bin\Debug\ClassLibrary1.pdb
+C:\dotnet\5_handson\5_handson\obj\Debug\5_handson.csproj.CopyComplete
