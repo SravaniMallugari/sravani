@@ -1,0 +1,3 @@
+C:\dotnet\12_handson\12_handson\obj\Debug\12_handson.csproj.AssemblyReference.cache
+C:\dotnet\12_handson\12_handson\obj\Debug\12_handson.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\12_handson\12_handson\obj\Debug\12_handson.csproj.CoreCompileInputs.cache
