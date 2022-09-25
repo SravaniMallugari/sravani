@@ -1,0 +1,6 @@
+C:\dotnet\23_sep\business\bin\Debug\business.dll
+C:\dotnet\23_sep\business\bin\Debug\business.pdb
+C:\dotnet\23_sep\business\obj\Debug\business.csproj.AssemblyReference.cache
+C:\dotnet\23_sep\business\obj\Debug\business.csproj.CoreCompileInputs.cache
+C:\dotnet\23_sep\business\obj\Debug\business.dll
+C:\dotnet\23_sep\business\obj\Debug\business.pdb

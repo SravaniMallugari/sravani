@@ -1,0 +1,9 @@
+C:\dotnet\23_sep\dal\bin\Debug\dal.dll
+C:\dotnet\23_sep\dal\bin\Debug\dal.pdb
+C:\dotnet\23_sep\dal\bin\Debug\business.dll
+C:\dotnet\23_sep\dal\bin\Debug\business.pdb
+C:\dotnet\23_sep\dal\obj\Debug\dal.csproj.AssemblyReference.cache
+C:\dotnet\23_sep\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+C:\dotnet\23_sep\dal\obj\Debug\dal.csproj.CopyComplete
+C:\dotnet\23_sep\dal\obj\Debug\dal.dll
+C:\dotnet\23_sep\dal\obj\Debug\dal.pdb

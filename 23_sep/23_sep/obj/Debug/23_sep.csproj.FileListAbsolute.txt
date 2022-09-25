@@ -1,0 +1,15 @@
+C:\dotnet\23_sep\23_sep\obj\Debug\23_sep.csproj.AssemblyReference.cache
+C:\dotnet\23_sep\23_sep\obj\Debug\23_sep.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\23_sep\23_sep\obj\Debug\23_sep.csproj.CoreCompileInputs.cache
+C:\dotnet\23_sep\23_sep\bin\Debug\23_sep.exe.config
+C:\dotnet\23_sep\23_sep\bin\Debug\23_sep.exe
+C:\dotnet\23_sep\23_sep\bin\Debug\23_sep.pdb
+C:\dotnet\23_sep\23_sep\bin\Debug\business.dll
+C:\dotnet\23_sep\23_sep\bin\Debug\helper.dll
+C:\dotnet\23_sep\23_sep\bin\Debug\dal.dll
+C:\dotnet\23_sep\23_sep\bin\Debug\business.pdb
+C:\dotnet\23_sep\23_sep\bin\Debug\helper.pdb
+C:\dotnet\23_sep\23_sep\bin\Debug\dal.pdb
+C:\dotnet\23_sep\23_sep\obj\Debug\23_sep.csproj.CopyComplete
+C:\dotnet\23_sep\23_sep\obj\Debug\23_sep.exe
+C:\dotnet\23_sep\23_sep\obj\Debug\23_sep.pdb

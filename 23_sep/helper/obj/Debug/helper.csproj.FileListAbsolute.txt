@@ -1,0 +1,11 @@
+C:\dotnet\23_sep\helper\bin\Debug\helper.dll
+C:\dotnet\23_sep\helper\bin\Debug\helper.pdb
+C:\dotnet\23_sep\helper\bin\Debug\business.dll
+C:\dotnet\23_sep\helper\bin\Debug\dal.dll
+C:\dotnet\23_sep\helper\bin\Debug\business.pdb
+C:\dotnet\23_sep\helper\bin\Debug\dal.pdb
+C:\dotnet\23_sep\helper\obj\Debug\helper.csproj.AssemblyReference.cache
+C:\dotnet\23_sep\helper\obj\Debug\helper.csproj.CoreCompileInputs.cache
+C:\dotnet\23_sep\helper\obj\Debug\helper.csproj.CopyComplete
+C:\dotnet\23_sep\helper\obj\Debug\helper.dll
+C:\dotnet\23_sep\helper\obj\Debug\helper.pdb
