@@ -1,0 +1,12 @@
+C:\dotnet\codefirstprblm\dal\bin\Debug\dal.dll
+C:\dotnet\codefirstprblm\dal\bin\Debug\dal.pdb
+C:\dotnet\codefirstprblm\dal\obj\Debug\dal.csproj.AssemblyReference.cache
+C:\dotnet\codefirstprblm\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+C:\dotnet\codefirstprblm\dal\obj\Debug\dal.dll
+C:\dotnet\codefirstprblm\dal\obj\Debug\dal.pdb
+C:\dotnet\codefirstprblm\dal\bin\Debug\dal.dll.config
+C:\dotnet\codefirstprblm\dal\bin\Debug\EntityFramework.dll
+C:\dotnet\codefirstprblm\dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\dotnet\codefirstprblm\dal\bin\Debug\EntityFramework.xml
+C:\dotnet\codefirstprblm\dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\dotnet\codefirstprblm\dal\obj\Debug\dal.csproj.CopyComplete

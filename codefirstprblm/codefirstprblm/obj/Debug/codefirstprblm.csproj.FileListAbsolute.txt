@@ -1,0 +1,16 @@
+C:\dotnet\codefirstprblm\codefirstprblm\obj\Debug\codefirstprblm.csproj.AssemblyReference.cache
+C:\dotnet\codefirstprblm\codefirstprblm\obj\Debug\codefirstprblm.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\codefirstprblm\codefirstprblm\obj\Debug\codefirstprblm.csproj.CoreCompileInputs.cache
+C:\dotnet\codefirstprblm\codefirstprblm\bin\Debug\codefirstprblm.exe.config
+C:\dotnet\codefirstprblm\codefirstprblm\bin\Debug\codefirstprblm.exe
+C:\dotnet\codefirstprblm\codefirstprblm\bin\Debug\codefirstprblm.pdb
+C:\dotnet\codefirstprblm\codefirstprblm\bin\Debug\dal.dll
+C:\dotnet\codefirstprblm\codefirstprblm\bin\Debug\EntityFramework.dll
+C:\dotnet\codefirstprblm\codefirstprblm\bin\Debug\EntityFramework.SqlServer.dll
+C:\dotnet\codefirstprblm\codefirstprblm\bin\Debug\dal.pdb
+C:\dotnet\codefirstprblm\codefirstprblm\bin\Debug\dal.dll.config
+C:\dotnet\codefirstprblm\codefirstprblm\bin\Debug\EntityFramework.xml
+C:\dotnet\codefirstprblm\codefirstprblm\bin\Debug\EntityFramework.SqlServer.xml
+C:\dotnet\codefirstprblm\codefirstprblm\obj\Debug\codefirstprblm.csproj.CopyComplete
+C:\dotnet\codefirstprblm\codefirstprblm\obj\Debug\codefirstprblm.exe
+C:\dotnet\codefirstprblm\codefirstprblm\obj\Debug\codefirstprblm.pdb
