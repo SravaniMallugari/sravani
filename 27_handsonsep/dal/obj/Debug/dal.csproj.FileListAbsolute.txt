@@ -1,0 +1,6 @@
+C:\dotnet\27_handsonsep\dal\bin\Debug\dal.dll
+C:\dotnet\27_handsonsep\dal\bin\Debug\dal.pdb
+C:\dotnet\27_handsonsep\dal\obj\Debug\dal.csproj.AssemblyReference.cache
+C:\dotnet\27_handsonsep\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+C:\dotnet\27_handsonsep\dal\obj\Debug\dal.dll
+C:\dotnet\27_handsonsep\dal\obj\Debug\dal.pdb

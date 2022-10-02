@@ -1,0 +1,8 @@
+C:\dotnet\27_handsonsep\27_handsonsep\bin\Debug\27_handsonsep.exe.config
+C:\dotnet\27_handsonsep\27_handsonsep\bin\Debug\27_handsonsep.exe
+C:\dotnet\27_handsonsep\27_handsonsep\bin\Debug\27_handsonsep.pdb
+C:\dotnet\27_handsonsep\27_handsonsep\obj\Debug\27_handsonsep.csproj.AssemblyReference.cache
+C:\dotnet\27_handsonsep\27_handsonsep\obj\Debug\27_handsonsep.csproj.SuggestedBindingRedirects.cache
+C:\dotnet\27_handsonsep\27_handsonsep\obj\Debug\27_handsonsep.csproj.CoreCompileInputs.cache
+C:\dotnet\27_handsonsep\27_handsonsep\obj\Debug\27_handsonsep.exe
+C:\dotnet\27_handsonsep\27_handsonsep\obj\Debug\27_handsonsep.pdb
