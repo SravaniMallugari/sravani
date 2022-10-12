@@ -1,0 +1,2 @@
+D:\practice\oct-7\oct-7\obj\Debug\oct-7.csproj.AssemblyReference.cache
+D:\practice\oct-7\oct-7\obj\Debug\oct-7.csproj.CoreCompileInputs.cache

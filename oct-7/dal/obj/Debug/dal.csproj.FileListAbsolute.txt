@@ -1,0 +1,17 @@
+D:\practice\oct-7\dal\bin\Debug\dal.dll
+D:\practice\oct-7\dal\bin\Debug\dal.pdb
+D:\practice\oct-7\dal\obj\Debug\dal.csproj.AssemblyReference.cache
+D:\practice\oct-7\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+D:\practice\oct-7\dal\obj\Debug\dal.dll
+D:\practice\oct-7\dal\obj\Debug\dal.pdb
+D:\practice\oct-7\dal\bin\Debug\bal.dll
+D:\practice\oct-7\dal\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\practice\oct-7\dal\bin\Debug\System.Security.AccessControl.dll
+D:\practice\oct-7\dal\bin\Debug\System.Security.Permissions.dll
+D:\practice\oct-7\dal\bin\Debug\System.Security.Principal.Windows.dll
+D:\practice\oct-7\dal\bin\Debug\bal.pdb
+D:\practice\oct-7\dal\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\practice\oct-7\dal\bin\Debug\System.Security.AccessControl.xml
+D:\practice\oct-7\dal\bin\Debug\System.Security.Permissions.xml
+D:\practice\oct-7\dal\bin\Debug\System.Security.Principal.Windows.xml
+D:\practice\oct-7\dal\obj\Debug\dal.csproj.CopyComplete

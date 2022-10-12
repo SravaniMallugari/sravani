@@ -1,0 +1,6 @@
+D:\practice\oct-7\helper\bin\Debug\helper.dll
+D:\practice\oct-7\helper\bin\Debug\helper.pdb
+D:\practice\oct-7\helper\obj\Debug\helper.csproj.AssemblyReference.cache
+D:\practice\oct-7\helper\obj\Debug\helper.csproj.CoreCompileInputs.cache
+D:\practice\oct-7\helper\obj\Debug\helper.dll
+D:\practice\oct-7\helper\obj\Debug\helper.pdb
