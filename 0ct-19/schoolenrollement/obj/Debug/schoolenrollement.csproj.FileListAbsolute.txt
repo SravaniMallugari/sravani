@@ -1,0 +1,17 @@
+D:\practice\0ct-19\schoolenrollement\obj\Debug\schoolenrollement.csproj.AssemblyReference.cache
+D:\practice\0ct-19\schoolenrollement\obj\Debug\schoolenrollement.csproj.CoreCompileInputs.cache
+D:\practice\0ct-19\schoolenrollement\bin\Debug\NUnit3.TestAdapter.dll
+D:\practice\0ct-19\schoolenrollement\bin\Debug\NUnit3.TestAdapter.pdb
+D:\practice\0ct-19\schoolenrollement\bin\Debug\nunit.engine.dll
+D:\practice\0ct-19\schoolenrollement\bin\Debug\nunit.engine.api.dll
+D:\practice\0ct-19\schoolenrollement\bin\Debug\nunit.engine.core.dll
+D:\practice\0ct-19\schoolenrollement\bin\Debug\testcentric.engine.metadata.dll
+D:\practice\0ct-19\schoolenrollement\bin\Debug\schoolenrollement.dll
+D:\practice\0ct-19\schoolenrollement\bin\Debug\schoolenrollement.pdb
+D:\practice\0ct-19\schoolenrollement\bin\Debug\0ct-19.dll
+D:\practice\0ct-19\schoolenrollement\bin\Debug\nunit.framework.dll
+D:\practice\0ct-19\schoolenrollement\bin\Debug\0ct-19.pdb
+D:\practice\0ct-19\schoolenrollement\bin\Debug\nunit.framework.xml
+D:\practice\0ct-19\schoolenrollement\obj\Debug\schoolenrollement.csproj.CopyComplete
+D:\practice\0ct-19\schoolenrollement\obj\Debug\schoolenrollement.dll
+D:\practice\0ct-19\schoolenrollement\obj\Debug\schoolenrollement.pdb
