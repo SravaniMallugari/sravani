@@ -1,0 +1,6 @@
+D:\practice\CalculatorLibJenkinDemo\CalculatorLibJenkinDemo\bin\Debug\CalculatorLibJenkinDemo.dll
+D:\practice\CalculatorLibJenkinDemo\CalculatorLibJenkinDemo\bin\Debug\CalculatorLibJenkinDemo.pdb
+D:\practice\CalculatorLibJenkinDemo\CalculatorLibJenkinDemo\obj\Debug\CalculatorLibJenkinDemo.csproj.AssemblyReference.cache
+D:\practice\CalculatorLibJenkinDemo\CalculatorLibJenkinDemo\obj\Debug\CalculatorLibJenkinDemo.csproj.CoreCompileInputs.cache
+D:\practice\CalculatorLibJenkinDemo\CalculatorLibJenkinDemo\obj\Debug\CalculatorLibJenkinDemo.dll
+D:\practice\CalculatorLibJenkinDemo\CalculatorLibJenkinDemo\obj\Debug\CalculatorLibJenkinDemo.pdb
